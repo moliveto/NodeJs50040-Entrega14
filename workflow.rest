@@ -1,0 +1,11 @@
+@url = http://localhost:3000
+
+###
+GET {{url}}/api/logger/
+###
+GET {{url}}/api/logger/marcelo
+###
+GET {{url}}/api/logger/warn
+###
+GET {{url}}/api/logger/error
+###
